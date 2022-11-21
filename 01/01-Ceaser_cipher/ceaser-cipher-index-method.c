@@ -1,6 +1,4 @@
-/* 
-gcc -c index-method.c -o index-method.o; gcc -o index-method index-method.c -lalpha -L.; LD_LIBRARY_PATH=. ./index-method
-*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
