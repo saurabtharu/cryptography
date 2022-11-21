@@ -1,6 +1,4 @@
-/* 
-  gcc -c 01-Ceaser_cipher.c -o 01-Ceaser_cipher.o; gcc -o 01-Ceaser_cipher 01-Ceaser_cipher.o -lalpha -L.; LD_LIBRARY_PATH=. ./01-Ceaser_cipher
-*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
